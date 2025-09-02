@@ -1,5 +1,6 @@
 # Andrew Miao's First CS193 Homework
 
+My favourite things about CS193 include:
 - Attending lectures with friends
 - Learning how to build _our_ **own** `projects`
 
